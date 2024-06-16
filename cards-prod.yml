@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Get card's information on prod APIs. Run time change test"
+  message: "Get card's information on prod APIs. Run time change test using rabbit mq bus"
   contactDetails:
     name: "Robert cards developer"
     email: "trangbn580@gmail,com"
