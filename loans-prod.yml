@@ -4,7 +4,7 @@ spring:
       on-profile: "prod"
 
 loans:
-  message: "Loans detail fetched from prod APIs. Run time change test"
+  message: "Loans detail fetched from prod APIs. Run time change test using rabbit mq bus"
   contactDetails:
     name: "Robert Developer"
     email: "trangbn580@gmail.com"
