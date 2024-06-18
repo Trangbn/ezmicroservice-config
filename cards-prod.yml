@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Get card's information on prod APIs. Runtime changes test using docker file"
+  message: "Get card's information on prod APIs. Runtime changes test using docker file 22"
   contactDetails:
     name: "Robert cards developer"
     email: "trangbn580@gmail,com"
