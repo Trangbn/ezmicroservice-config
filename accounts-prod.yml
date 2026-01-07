@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Ezmicroservice related to Product APIs. Runtime change using rabbit mqbus webhook"
+  message: "Welcome to Ezmicroservice related to Product APIs. Runtime edit expect config refreshing automatically"
   contactDetails:
     name: "Robert - Product owner"
     email: "{cipher}03e153804dae4e9352ad7fba94e86f3da4e470a71915c03bf089c592981c02f840c563e44cd9aaa4497a9a3b9f33ed8b"
