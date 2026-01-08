@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Get card's information on QA APIs. Test actuator refreshing using rabbitmq"
+  message: "Get card's information on QA APIs. Test actuator refreshing using rabbitmq qa"
   contactDetails:
     name: "Robert cards developer"
     email: "trangbn580@gmail,com"
