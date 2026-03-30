@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Ezmicroservice related to Production APIs. Using cloudbus test 1"
+  message: "Welcome to Ezmicroservice related to Production APIs. Using cloudbus test 2"
   contactDetails:
     name: "Robert - Product owner2"
     email: "{cipher}8ed828557f7ccde8a68943f2e68af6d48dcae6cff572802f1e4d055c201e4a22d3969fff92d8dd1bb66be000051f733e"
